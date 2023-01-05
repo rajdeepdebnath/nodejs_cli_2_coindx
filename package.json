@@ -1,0 +1,25 @@
+{
+  "name": "@raj/coindx",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": "./bin/coindx.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rajdeepdebnath/nodejs_cli_2_coindx.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rajdeepdebnath/nodejs_cli_2_coindx/issues"
+  },
+  "homepage": "https://github.com/rajdeepdebnath/nodejs_cli_2_coindx#readme",
+  "dependencies": {
+    "commander": "^9.4.1",
+    "esm": "^3.2.25"
+  }
+}
