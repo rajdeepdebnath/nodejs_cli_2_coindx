@@ -1,6 +1,6 @@
 {
   "name": "@raj/coindx",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "bin": "./bin/coindx.js",
@@ -19,7 +19,10 @@
   },
   "homepage": "https://github.com/rajdeepdebnath/nodejs_cli_2_coindx#readme",
   "dependencies": {
+    "colors": "^1.4.0",
     "commander": "^9.4.1",
-    "esm": "^3.2.25"
+    "configstore": "^5.0.1",
+    "esm": "^3.2.25",
+    "inquirer": "^8.0.0"
   }
 }
